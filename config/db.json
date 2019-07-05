@@ -1,7 +1,7 @@
 {
   "development": {
     "dialect": "sqlite",
-    "storage": "config/db.production.sqlite",
+    "storage": "/opt/timeoff/config/database.sqlite",
     "logging": false
   },
   "test": {
